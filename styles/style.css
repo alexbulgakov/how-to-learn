@@ -258,11 +258,6 @@
   z-index: 3;
 }
 
-.table__cell_theme_dark {
-  color: white;
-  width: 200px;
-}
-
 .table__text_theme_dark {
   color: white;
 }
