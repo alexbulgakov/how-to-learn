@@ -84,11 +84,6 @@
   top: 64px;
 }
 
-.header__square-pic {
-  height: 568px;
-  width: 568px;
-}
-
 .description {
   padding-top: 100px;
   display: flex;
@@ -126,7 +121,7 @@
 }
 
 .two-columns__paragraph {
-  margin-top: 30px;;
+  margin-top: 30px;
 }
 
 .two-columns__paragraph_top-margin_zero {
@@ -266,10 +261,6 @@
 .table__cell_theme_dark {
   color: white;
   width: 200px;
-}
-
-.table__heading_theme_dark {
-  color: white;
 }
 
 .table__text_theme_dark {
