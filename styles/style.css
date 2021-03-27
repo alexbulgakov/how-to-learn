@@ -187,7 +187,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  height: 890px;
+  height: 790px;
 }
 
 .feynman__title {
@@ -338,6 +338,7 @@
   list-style-type: none;
   margin: 0;
   padding: 0;
+  margin-bottom: 16px;
 }
 
 .footer__column-link {
