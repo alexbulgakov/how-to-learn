@@ -8,6 +8,7 @@
 @import url(../blocks/header/__subtitle/header__subtitle.css);
 @import url(../blocks/header/__link/header__link.css);
 @import url(../blocks/header/__main-illustration/header__main-illustration.css);
+@import url(../blocks/rotation/rotation.css);
 @import url(../blocks/header/__square-pic/header__square-pic.css);
 @import url(../blocks/description/description.css);
 @import url(../blocks/two-columns/two-columns.css);
@@ -15,6 +16,12 @@
 @import url(../blocks/two-columns/__main-text/two-columns__main-text.css);
 @import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
 @import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
+@import url(../blocks/techniques/techniques.css);
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/__image/cards__image.css);
+@import url(../blocks/cards/__title/cards__title.css);
+@import url(../blocks/cards/__description/cards__description.css);
 @import url(../blocks/digits/digits.css);
 @import url(../blocks/section-tittle/section-title.css);
 @import url(../blocks/section-subtitle/section-subtitle.css);
